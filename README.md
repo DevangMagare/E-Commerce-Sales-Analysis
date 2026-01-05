@@ -1,9 +1,9 @@
 # E-Commerce-Sales-Analysis
-📘 E-Commerce Sales Analysis — End-to-End Data Analytics Project
+ E-Commerce Sales Analysis — End-to-End Data Analytics Project
 
 Python • Power BI • Data Cleaning • Exploratory Data Analysis • Dashboard Development
 
-🔍 Project Overview
+Project Overview
 
 This project provides a complete end-to-end analysis of an e-commerce dataset using Python for data cleaning & analysis and Power BI for dashboard development.
 
@@ -34,7 +34,7 @@ The project converts raw transactional data into actionable business insights to
 
 🔹Data Visualization Concepts
 
-🧹 1. Data Cleaning & Preparation (Python)
+ 1. Data Cleaning & Preparation (Python)
 
 Key cleaning steps performed:
 
@@ -60,7 +60,7 @@ Converted all column names to lowercase and snake_case for consistency.
 
 🔹Created fulfilment_type column for Amazon vs Merchant comparison.
 
-📊 2. Exploratory Data Analysis (Python)
+ 2. Exploratory Data Analysis (Python)
 Key analyses performed:
 
 🔹Revenue trends
@@ -79,7 +79,7 @@ Key analyses performed:
 
 All results are printed clearly within the notebook.
 
-📈 3. Power BI Dashboard
+3. Power BI Dashboard
 
 A fully designed, interactive Power BI dashboard was created with:
 
@@ -121,7 +121,7 @@ Filters Included
 
 The dashboard uses a bright professional theme, clean layout, and business-focused insights.
 
-📌 4. Key Insights
+ 4. Key Insights
 Financial Performance
 
 🔹Strong overall revenue with consistent monthly trends.
@@ -148,7 +148,7 @@ Product & Inventory
 
 🔹Low-demand items should be replenished carefully to avoid overstocking.
 
-🧾 5. Recommendations
+ 5. Recommendations
 
 🔹Strengthen fulfilment operations to reduce cancellation rates.
 
@@ -161,7 +161,7 @@ Product & Inventory
 🔹Enhance customer service touchpoints to reduce returns.
 
 
-📂 Repository Contents
+ Repository Contents
 /python-analysis
     - Notebook & .py file
     - Cleaned dataset
@@ -174,7 +174,7 @@ Product & Inventory
     - Final PPT used for presentation
 
 
-    📝 6. How to Use This Project
+ 6. How to Use This Project
 To run the Python analysis
 
 1.Install required libraries
@@ -192,7 +192,7 @@ To view the Power BI dashboard
 2.Open using Power BI Desktop
 
 
-🙋‍♂️ Author
+ Author
 
 Devang Magare
 Data Analyst | Python | SQL | Power BI | Dashboard Development
