@@ -22,7 +22,7 @@ The objective of this project is to understand business performance across:
 The project converts raw transactional data into actionable business insights to support data-driven decisions.
 
 
-🛠️ Technologies Used
+ Technologies Used
 
 🔹Python (Pandas, NumPy, Matplotlib)
 
